@@ -4,3 +4,8 @@ let radius = 32;
 
 let area of circle = PI * radius * radius;
 console.log(area of circle);
+
+
+const arr = ['Hello', 'JavaScript'];
+
+console.log(arr);
